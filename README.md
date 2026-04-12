@@ -43,8 +43,7 @@ The Smart ID Verification System is a secure full-stack web application designed
 
 ### Login Page
 
-![Login](<img width="508" height="427" alt="login page" src="https://github.com/user-attachments/assets/6eb1a992-d3b2-4c19-9868-e1f67a16a64e" />
-)
+![Login](screenshots/login page.png)
 
 ### Dashboard
 
