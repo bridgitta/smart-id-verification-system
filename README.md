@@ -15,7 +15,7 @@ Password: admin123
 
 ## 📌 Overview
 
-The Smart ID Verification System is a secure full-stack web application designed to verify, manage, and store identification records. It includes an admin dashboard for efficient data handling and validation.
+The Smart ID Verification System is a secure full-stack web application designed to verify, manage, and store identification records. It includes an admin dashboard for efficient data handling and validation. it replaces manual verification processes with an automated, efficient, and reliable system.
 
 ---
 
@@ -43,7 +43,8 @@ The Smart ID Verification System is a secure full-stack web application designed
 
 ### Login Page
 
-![Login](screenshots/login.png)
+![Login](<img width="508" height="427" alt="login page" src="https://github.com/user-attachments/assets/6eb1a992-d3b2-4c19-9868-e1f67a16a64e" />
+)
 
 ### Dashboard
 
